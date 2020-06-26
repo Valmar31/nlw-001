@@ -25,4 +25,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 O Ecoleta é um marketplace que ajuda pessoas a encontrarem pontos de coleta de resíduos de forma eficiente. Visualização do layout [desse link](<https://www.figma.com/file/QHzFfwO0plcLweaEOp27ZK/Ecoleta-(Copy)?node-id=136%3A546>).
 
 
-Feito com ♥ by Valmar :wave: [Participe da comunidade Rocketseat!](https://discordapp.com/invite/gCRAFhc)
+Feito com ♥ by [Valmar](https://www.linkedin.com/in/valmar-munhoz/) :wave: [Participe da comunidade Rocketseat!](https://discordapp.com/invite/gCRAFhc)
